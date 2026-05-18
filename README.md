@@ -1,7 +1,7 @@
 # Exp-8-Record-THRESHOLDING
 # THRESHOLDING
-## NAME: Krithika Lakshmi M
-## REG: 212224230134
+## NAME: VIMALA SAHANA W
+## REG: 212223040241
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
